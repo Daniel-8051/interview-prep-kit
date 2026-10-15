@@ -1,0 +1,5 @@
+cv/current.md
+practice/*/target/
+.idea/
+.claude/settings.local.json
+*:Zone.Identifier
